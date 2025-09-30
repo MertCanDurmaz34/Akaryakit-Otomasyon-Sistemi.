@@ -1,0 +1,16 @@
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt_sistemi_projesi.Form1.resources
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.csproj.GenerateResource.cache
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.AssemblyInfoInputs.cache
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.AssemblyInfo.cs
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\bin\Debug\net8.0-windows\akaryakıt sistemi projesi.exe
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\bin\Debug\net8.0-windows\akaryakıt sistemi projesi.deps.json
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\bin\Debug\net8.0-windows\akaryakıt sistemi projesi.runtimeconfig.json
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\bin\Debug\net8.0-windows\akaryakıt sistemi projesi.dll
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\bin\Debug\net8.0-windows\akaryakıt sistemi projesi.pdb
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.dll
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\refint\akaryakıt sistemi projesi.dll
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.pdb
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\akaryakıt sistemi projesi.genruntimeconfig.cache
+C:\Users\mert\source\repos\akaryakıt sistemi projesi\akaryakıt sistemi projesi\obj\Debug\net8.0-windows\ref\akaryakıt sistemi projesi.dll
